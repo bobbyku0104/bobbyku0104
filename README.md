@@ -1,147 +1,151 @@
-<!-- Animated Capsule Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=280&section=header&text=Bobby%20Kumar%20Yadav&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=62&descAlign=50&descSize=20&animation=twinkle" alt="Header" />
-</p>
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%92%BB+Full+Stack+MERN+Developer;%F0%9F%A4%96+AI+Automation+%26+Agent+Enthusiast;%E2%9A%99%EF%B8%8F+n8n+%26+Make.com+Workflow+Specialist" alt="Typing SVG" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4f8b,100:6D00CC&height=200&section=header&text=Bobby%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Generative%20AI&descSize=18&descAlignY=60" alt="header"/>
 
-<p align="center">
-  <!-- Profile Views Counter Badge -->
-  <img src="https://komarev.com/ghpvc/?username=bobbyku0104&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+<a href="https://github.com/bobbyku0104">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A4F8B&center=true&vCenter=true&width=650&lines=React+%7C+Node+%7C+Express+%7C+MongoDB+Developer;Building+AI-powered+full-stack+products;Claude+AI+%7C+Gemini+API+%7C+Prompt+Engineering;Open+to+Full+Stack+%2F+MERN+%2F+AI+Engineering+roles" alt="typing"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bobbyku0104&label=Profile%20Views&color=1a4f8b&style=flat" alt="views"/>
+<img src="https://img.shields.io/github/followers/bobbyku0104?label=Followers&style=flat&color=6D00CC" alt="followers"/>
+
+</div>
 
 ---
 
-### 💫 About Me
+## 👨💻 About Me
 
-Hello there! 👋 I am **Bobby Kumar Yadav**, a passionate **Full Stack MERN Developer** and **AI Automation Enthusiast**. I specialize in building scalable web applications and designing intelligent AI-driven automation workflows that optimize processes and solve real-world problems.
+```javascript
+const bobby = {
+  role: "Full Stack Developer",
+  location: "Bhopal, MP, India",
+  stack: ["React.js", "Node.js", "Express.js", "MongoDB"],
+  ai: ["Claude AI", "Gemini API", "Prompt Engineering", "n8n", "Make.com"],
+  learning: ["Next.js (SSR)", "System Design"],
+  currently: "Building AI-powered features inside full-stack products",
+  openTo: "Full Stack / MERN / AI Engineering roles",
+};
+```
 
-- 🚀 Currently working on advanced **AI agents** and **automated workflows**.
-- 💡 Passionate about integrating LLM APIs and building smart automation.
-- 🎓 Hands-on experience developing end-to-end full-stack applications.
-- ✉️ Always open to discussing interesting projects, collaborations, and opportunities.
-
----
-
-### 💻 Technologies & Tech Stack
-
-<p align="left">
-  <!-- HTML5 -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
-  <!-- CSS3 -->
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-  <!-- React.js -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />&nbsp;
-  <!-- Tailwind CSS -->
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />&nbsp;
-  <br/>
-  <!-- Node.js -->
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
-  <!-- Express.js -->
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />&nbsp;
-  <!-- MongoDB -->
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
-  <!-- REST APIs -->
-  <img src="https://img.shields.io/badge/REST%20APIs-%230052CC.svg?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-</p>
+I build and deploy production-ready, responsive web apps with secure REST API integrations, and ship **AI-powered features** — automated email systems, AI agents, and an AI resume analyzer. Strong foundation in **DSA, DBMS, and OOP**.
 
 ---
 
-### 🤖 AI & Automation Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <!-- n8n -->
-  <img src="https://img.shields.io/badge/n8n-%23FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />&nbsp;
-  <!-- Make.com -->
-  <img src="https://img.shields.io/badge/Make.com-%23612570.svg?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" />&nbsp;
-  <!-- OpenAI -->
-  <img src="https://img.shields.io/badge/OpenAI%20APIs-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI APIs" />&nbsp;
-  <!-- AI Agents -->
-  <img src="https://img.shields.io/badge/AI%20Agents-%23008080.svg?style=for-the-badge&logo=ai&logoColor=white" alt="AI Agents" />
-</p>
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**AI & Automation**
+
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+**Tools & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-### 💼 Professional Experience
-
-#### **AI Engineer Intern**
-🏢 **NSM Digital Hub**
-* **AI Agents & Workflows**: Designed and built production-ready AI agents and automated workflows utilizing **n8n** and **Make.com**.
-* **Integrations & Pipelines**: Integrated Large Language Model (LLM) APIs (OpenAI, etc.) for text analysis, classification, and generation.
-* **Lead Generation & CRMs**: Automated email outreach campaigns, lead generation pipelines, and synchronized customer data across CRM systems.
-
----
-
-### 📁 Featured Projects
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h4>🔍 <a href="https://github.com/bobbyku0104/Resume-Analyzer">Resume Analyzer</a></h4>
-      <p>An intelligent AI-powered application designed to scan, parse, and analyze resumes, matching candidates' profiles against job descriptions to evaluate suitability scores.</p>
-      <sub><b>JavaScript • OpenAI API • Node.js</b></sub>
-    </td>
-    <td width="50%">
-      <h4>🗺️ <a href="https://github.com/bobbyku0104/Map-Data-Generator">Map Data Generator</a></h4>
-      <p>An automation tool engineered to scrape, process, and generate localized map data for business intelligence, lead enrichment, and analysis.</p>
-      <sub><b>JavaScript • Web Scraping • APIs</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🎥 <a href="https://github.com/bobbyku0104/Ai-video-Generator">AI Video Generator</a></h4>
-      <p>A web application that leverages AI models to automate video generation, scene curation, and content creation workflows.</p>
-      <sub><b>JavaScript • AI Video APIs • Express.js</b></sub>
-    </td>
-    <td width="50%">
-      <h4>📝 <a href="https://github.com/bobbyku0104/Youtube-Summary">YouTube Summary</a></h4>
-      <p>A smart productivity tool that transcribes YouTube videos and generates concise, structured bullet-point summaries using AI.</p>
-      <sub><b>JavaScript • OpenAI API • Chrome Extension</b></sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ Map Data Generator
+Full-stack lead-gen platform using map data + search filters. Secure payments (credits & subscriptions) with **JWT + Bcrypt**. Deployed on Vercel + Render.
+
+`React` `Node` `Express` `MongoDB` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 Resume Analyzer
+AI-powered resume feedback with **ATS-style scoring** (MVC backend). **Gemini API** generates strengths, weaknesses & suggestions; PDF upload via Multer.
+
+`React` `Express` `Gemini` `Multer`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ▶️ YouTube Summary
+Responsive React frontend for an AI YouTube video summarizer — accessible Tailwind UI, real-time rendering via React Hooks + Context API.
+
+`React` `Tailwind` `Context API` `GenAI`
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Experience — AI Engineer Intern
+**NSM Digital Hub** (Remote · 2026). Built AI agents & automation (n8n, Make.com), an AI email-automation system with **Claude AI**, and CRM/social automations.
+
+`Claude AI` `LLM APIs` `Automation`
+
+</td>
+</tr>
 </table>
 
----
-
-### 📊 GitHub Analytics & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobbyku0104&show_icons=true&theme=radical&hide_border=true" alt="Bobby's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbyku0104&theme=radical&hide_border=true" alt="Bobby's GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyku0104&layout=compact&theme=radical&hide_border=true" alt="Bobby's Top Languages" />
-</p>
-
-#### 📈 Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bobbyku0104&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
+> 🔗 Live demos & source pinned on my [repositories](https://github.com/bobbyku0104?tab=repositories).
 
 ---
 
-### ✉️ Connect With Me
+## 📊 GitHub Analytics
 
-Let's collaborate or build something amazing! Feel free to reach out:
+<div align="center">
 
-<p align="left">
-  <!-- Email -->
-  <a href="mailto:yadavbobbykumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/bobby-kumar-yadav">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bobbyku0104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyku0104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+
+<img src="https://streak-stats.demolab.com?user=bobbyku0104&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=bobbyku0104&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bobbyku0104&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bobby-kumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:bobby08@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://github.com/bobbyku0104"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+
+</div>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D00CC,100:1a4f8b&height=120&section=footer"/>
+</div>
