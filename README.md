@@ -123,12 +123,12 @@ Responsive React frontend for an AI YouTube video summarizer — accessible Tail
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bobbyku0104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyku0104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=bobbyku0104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bobbyku0104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
 
 <img src="https://streak-stats.demolab.com?user=bobbyku0104&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=bobbyku0104&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies"/>
+<br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bobbyku0104&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 
